@@ -1,0 +1,13 @@
+# TOML file for rust hdl https://github.com/VHDL-LS/rust_hdl
+# Generated with hdl-toml https://github.com/bjfer/hdl-toml
+
+standard = "2008"
+
+[libraries]
+
+6502.files = [
+# /home/ada/Projects/Curtin/ext/6502/
+'VHDL/SuportePrototipacao/*.vhd',
+'VHDL/P6502/*.vhd',
+]
+
